@@ -59,13 +59,14 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "photo_2025-12-30_19-40-29.jpg"; //эДок, паспорт,
+var photo_passport = "2.jpg"; //эДок, паспорт,
 var photo_rights   = "1(1).png"; //права
 var photo_students = "image_2025-12-30_19-09-09.png"; //диплом, студ
-var photo_zagran   = "image_2025-12-30_19-09-09.png"; //загран
+var photo_zagran   = "1.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
